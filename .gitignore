@@ -19,3 +19,4 @@ wp-content/plugins/hello.php
 composer.lock
 composer.json
 vendor/
+include/
